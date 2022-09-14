@@ -6,10 +6,10 @@
 
 ### Preview
 
-#### 기본 CRA
+#### - 기본 CRA
 
-<img src="https://user-images.githubusercontent.com/87749134/190049023-53a86990-92b8-4d0a-9fa5-44a4d64e14d2.gif" />
+<img width="600px" src="https://user-images.githubusercontent.com/87749134/190049023-53a86990-92b8-4d0a-9fa5-44a4d64e14d2.gif" />
 
-#### Menu 구성 변경
+#### - Menu 구성 변경
 
-<img src="https://user-images.githubusercontent.com/87749134/190048774-cea77585-aed7-4891-a221-5004e733a683.gif" />
+<img width="600px" src="https://user-images.githubusercontent.com/87749134/190048774-cea77585-aed7-4891-a221-5004e733a683.gif" />
