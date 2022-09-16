@@ -13,3 +13,7 @@
 #### - Menu 구성 변경
 
 <img width="600px" src="https://user-images.githubusercontent.com/87749134/190048774-cea77585-aed7-4891-a221-5004e733a683.gif" />
+
+#### - 화면 구성 변경
+
+<img width="600px" src="https://user-images.githubusercontent.com/87749134/190542931-187e8bf5-d18b-4480-a278-1463ea24c4d5.gif" />
