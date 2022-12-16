@@ -1,16 +1,12 @@
-const { app, BrowserWindow, ipcMain } = require("electron");
-const path = require("path");
+const { app, BrowserWindow } = require("electron");
 
 const createWindow = () => {
   const win = new BrowserWindow({
     width: 800,
     height: 600,
-    webPreferences: {
-      preload: path.join(__dirname, "preload.js"),
-    },
   });
-  ipcMain.handle("실행됨", () => "실행!");
-  win.loadFile("index.html");
+
+  win.loadURL("http://localhost:3000/");
 };
 
 app.whenReady().then(() => {
